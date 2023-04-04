@@ -5,8 +5,8 @@ const MyApp = ({ Component, pageProps }) => {
   return (
     <>
       <NextSeo
-        title="Kokunime"
-        description="Better kusonime.com website built using Next.js & TailwindCSS"
+        title="AnimeBaba"
+        description="Your #1 animes plug"
       />
       <Component {...pageProps} />
     </>
