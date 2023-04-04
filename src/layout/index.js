@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 const Layout = ({ children }) => (
   <>
     <Head>
-      <title>Kokunime</title>
+      <title>AnimeBaba</title>
       <meta
         name="viewport"
         content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"
