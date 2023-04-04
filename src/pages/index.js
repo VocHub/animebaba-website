@@ -65,7 +65,7 @@ const Home = () => {
           <section className="min-h-screen min-w-full bg-gradient-to-tl from-slate-900 via-slate-800 to-slate-900 py-10">
             <div id="update-now">
               <div className="mb-6 container">
-                <TitleSection>Updatetan Terbaru</TitleSection>
+                <TitleSection>New Updates</TitleSection>
               </div>
               <div className="container px-0 md:px-4">
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 lg:gap-6">
