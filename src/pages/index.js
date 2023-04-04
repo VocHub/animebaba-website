@@ -92,7 +92,7 @@ const Home = () => {
             </div>
             <div id="recommendations">
               <div className="mb-6 container">
-                <TitleSection>Rekomendasi Anime</TitleSection>
+                <TitleSection>Anime Recommendations</TitleSection>
                 <br />
                 <Recommendations />
               </div>
