@@ -1,19 +1,19 @@
-import { BsGithub, BsInstagram, BsTwitter } from "react-icons/bs";
+import { BsFacebook, BsInstagram, BsTwitter } from "react-icons/bs";
 
 const SocialMedia = [
   {
     sosmedName: "Github",
-    sosmedPath: "https://github.com/kochan4php",
-    sosmedIcon: <BsGithub />,
+    sosmedPath: "https://facebook.com/animebaba",
+    sosmedIcon: <BsFacebook />,
   },
   {
     sosmedName: "Instagram",
-    sosmedPath: "https://instagram.com/kochan.php",
+    sosmedPath: "https://instagram.com/animebaba",
     sosmedIcon: <BsInstagram />,
   },
   {
     sosmedName: "Twitter",
-    sosmedPath: "https://twitter.com/deo_sbrn",
+    sosmedPath: "https://twitter.com/anime_baba",
     sosmedIcon: <BsTwitter />,
   },
 ];
