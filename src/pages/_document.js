@@ -12,7 +12,7 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#fff" />
           <meta
             name="keywords"
-            content="Kokunime, kokunime, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap"
+            content="anime, animebaba, website download anime, download batch anime, download anime, download anime terlengkap, website download anime terlengkap"
           />
           <link
             type="image/png"
