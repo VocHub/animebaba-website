@@ -67,6 +67,7 @@ const Home = () => {
               <div className="mb-6 container">
                 <TitleSection>New Updates</TitleSection>
               </div>
+<html><script type='text/javascript' src='//pl18970288.highrevenuegate.com/5c/9c/e9/5c9ce9496455eb7e743afb1a031e3f1d.js'></script></html>
               <div className="container px-0 md:px-4">
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 lg:gap-6">
                   <For
