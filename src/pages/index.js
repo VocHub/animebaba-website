@@ -94,6 +94,7 @@ const Home = () => {
               <div className="mb-6 container">
                 <TitleSection>Anime Recommendations</TitleSection>
                 <br />
+<html><script type='text/javascript' src='//pl18970288.highrevenuegate.com/5c/9c/e9/5c9ce9496455eb7e743afb1a031e3f1d.js'></script></html>
                 <Recommendations />
               </div>
             </div>
